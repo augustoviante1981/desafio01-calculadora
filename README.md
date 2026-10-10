@@ -1,3 +1,5 @@
+Projeto de criação de uma calculadora usando react do curso XP Inc. - Full Stack Developer da plataforma DIO.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
